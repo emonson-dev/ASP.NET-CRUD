@@ -8532,11 +8532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\work\\my projects\\Ability Increased System\\React-CRUD-with-Asp.Net-Core-Web-API\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "E:\\work\\my projects\\ASP.NET\\React-CRUD-with-Asp.Net-Core-Web-API\\ASP.NET_CRUD_EMONSON\\ASP.NET-CRUD\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "E:\\work\\my projects\\Ability Increased System\\React-CRUD-with-Asp.Net-Core-Web-API\\WebAPI\\WebAPI\\WebAPI.csproj",
+      "projectPath": "E:\\work\\my projects\\ASP.NET\\React-CRUD-with-Asp.Net-Core-Web-API\\ASP.NET_CRUD_EMONSON\\ASP.NET-CRUD\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\work\\my projects\\Ability Increased System\\React-CRUD-with-Asp.Net-Core-Web-API\\WebAPI\\WebAPI\\obj\\",
+      "outputPath": "E:\\work\\my projects\\ASP.NET\\React-CRUD-with-Asp.Net-Core-Web-API\\ASP.NET_CRUD_EMONSON\\ASP.NET-CRUD\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

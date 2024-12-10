@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wG/tATZr6vA=",
+  "dgSpecHash": "TqLu0XE+1MQ=",
   "success": true,
-  "projectFilePath": "E:\\work\\my projects\\Ability Increased System\\React-CRUD-with-Asp.Net-Core-Web-API\\WebAPI\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "E:\\work\\my projects\\ASP.NET\\React-CRUD-with-Asp.Net-Core-Web-API\\ASP.NET_CRUD_EMONSON\\ASP.NET-CRUD\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

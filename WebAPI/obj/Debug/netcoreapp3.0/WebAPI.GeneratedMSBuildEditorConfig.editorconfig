@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = WebAPI
-build_property.ProjectDir = E:\work\my projects\Ability Increased System\React-CRUD-with-Asp.Net-Core-Web-API\WebAPI\WebAPI\
+build_property.ProjectDir = E:\work\my projects\ASP.NET\React-CRUD-with-Asp.Net-Core-Web-API\ASP.NET_CRUD_EMONSON\ASP.NET-CRUD\WebAPI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false
